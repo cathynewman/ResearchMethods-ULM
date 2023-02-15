@@ -164,7 +164,7 @@ else:
 
 ***Correct indentation is critical.*** You must pay extremely close attention to the code blocks when writing nested conditional statements. Below is an image of the same code but with color-coded conditional blocks:
 
-![if-else indentation](images/if-else_indentation.png)
+![if-else indentation](if-else_indentation.png)
 
 **Another note:** Now that we're working with multiple levels of indentation, this is a reminder that you must always use the same number of spaces for each level of indentation. For example, REPL's default is 2 spaces, so you use an additional 2 spaces for each additional level:
 - Initial: 0 spaces
