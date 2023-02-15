@@ -118,7 +118,7 @@ The first line of the function definition is the **header**; the rest is the **b
 - Body must be indented.
 - ***If either of the above is incorrect, your code will not work.***
 
-![python indentation](images/python_code_blocks.png)
+![python indentation](python_code_blocks.png)
 
 In our example, `print_lyrics` is the name of this new function.
 - The rules for function names are the same as for variable names.
